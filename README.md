@@ -1,4 +1,4 @@
-ATL-Datamart
+ ATL-Datamart
 ==============================
 
 Projet pour le cours d'atelier Architecture décisionnel Datamart (TRDE704) pour les I1 de l'EPSI.
